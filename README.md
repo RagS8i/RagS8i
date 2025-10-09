@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Raghav Sharma, an IIT (BHU) Varanasi undergraduate, with deep interest in Robotics, Artificial Intelligence and Machine Learning.<br>👯 I’m looking to collaborate on Deep Learning projects<br>🌱 I’m currently learning Computer Vision and Natural Language Processing <br>💬 Ask me about a random facts of different sports
+I am Raghav Sharma, an IIT (BHU) Varanasi undergraduate, with deep interest in Robotics, Artificial Intelligence and Machine Learning.<br>👯 I’m looking to collaborate on Deep Learning projects<br>🌱 I’m currently learning Computer Vision and Natural Language Processing <br>💬 Ask me random facts of different sports
 
 
 ## 🌐 Socials:
